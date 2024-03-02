@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+}
+.heading{
+width: 100%;
+font-size: 18px;
+margin: 0;
+}
+#object{
+    width: 30%;
+}
+#starter{
+    width: 10%;
+    
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 40px;
+    margin-top: 75px;
+    
+}
